@@ -12,7 +12,8 @@ Projeto de conclusão em grupo - Técnico integrado em Mecatrônica - IFRS
 ![GitHub open issues](https://img.shields.io/github/issues/AnaBudin/esp32-mecanum-robot-car?style=for-the-badge)
 ![GitHub open pull requests](https://img.shields.io/github/issues-pr/AnaBudin/esp32-mecanum-robot-car?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+
+<img src="https://ifrs.edu.br/wp-content/uploads/2022/08/Logo-IFRS-cores-sem-fundo-Horizontal.png" alt="logo ifrs" width="400">
 
 > Projeto de carro robótico omnidirecional para competições de robótica.
 
