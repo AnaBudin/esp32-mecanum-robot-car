@@ -1,21 +1,10 @@
-# Omnidirectional Robot Car - ESP32
-### Overview
-Projeto de conclusão em grupo - Técnico integrado em Mecatrônica - IFRS
 
-# Nome do projeto
-
-<!-- Troque iuricode/readme-template pelo seu usuário e pelo nome do seu repositório. -->
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AnaBudin/esp32-mecanum-robot-car?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/AnaBudin/esp32-mecanum-robot-car?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/AnaBudin/esp32-mecanum-robot-car?style=for-the-badge)
-![GitHub open issues](https://img.shields.io/github/issues/AnaBudin/esp32-mecanum-robot-car?style=for-the-badge)
-![GitHub open pull requests](https://img.shields.io/github/issues-pr/AnaBudin/esp32-mecanum-robot-car?style=for-the-badge)
 
 
 <img src="https://ifrs.edu.br/wp-content/uploads/2022/08/Logo-IFRS-cores-sem-fundo-Horizontal.png" alt="logo ifrs" width="400">
-
-> Projeto de carro robótico omnidirecional para competições de robótica.
+> Projeto de carro robótico omnidirecional para competições de robótica. Trabalho de conclusão em grupo - Técnico integrado em Mecatrônica - IFRS
 
 ## Materiais
 Para reproduzir o projeto, são necessários:
