@@ -1,6 +1,6 @@
 # Omnidirectional Robot Car - ESP32
 ### Overview
-Projeto de conclusão em grupo - Técnico em Mecatrônica IFRS
+Projeto de conclusão em grupo - Técnico integrado em Mecatrônica - IFRS
 
 # Nome do projeto
 
